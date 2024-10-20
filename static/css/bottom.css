@@ -1,0 +1,23 @@
+.bottom-inner{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+
+#inner1{
+    color: black;
+    font-family: "Inter";
+    font-size: 16px; 
+    text-align: left;
+}
+
+#inner2{
+    color: black;
+    font-family: "Inter";
+    font-size: 16px; 
+    text-align: left;
+}
+
+#tnt{
+    font-weight: bold;    
+}
